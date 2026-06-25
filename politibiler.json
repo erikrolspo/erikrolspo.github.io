@@ -10,7 +10,7 @@
       "oppdrag": "Trafikkulykke"
     },
     {
-      "id": "2",
+      "id": "12",
       "merke": "Toyota",
       "modell": "Hiace",
       "årsmodell": 2016,
@@ -19,7 +19,7 @@
       "oppdrag": "Patruljerer"
     },
     {
-      "id": "3",
+      "id": "4",
       "merke": "Ford",
       "modell": "Transit",
       "årsmodell": 2013,
@@ -28,7 +28,7 @@
       "oppdrag": "Patruljerer"
     },
     {
-      "id": "4",
+      "id": "19",
       "merke": "Mercedes-Benz",
       "modell": "G500",
       "årsmodell": 2019,
@@ -46,7 +46,7 @@
       "oppdrag": "Trafikkulykke"
     },
     {
-      "id": "6",
+      "id": "7",
       "merke": "Audi",
       "modell": "A4",
       "årsmodell": 2016,
@@ -55,7 +55,7 @@
       "oppdrag": ""
     },
     {
-      "id": "7",
+      "id": "6",
       "merke": "Mercedes-Benz",
       "modell": "Sprinter",
       "årsmodell": 2014,
@@ -64,7 +64,7 @@
       "oppdrag": ""
     },
     {
-      "id": "8",
+      "id": "20",
       "merke": "Toyota",
       "modell": "Hiace",
       "årsmodell": 2014,
@@ -73,7 +73,7 @@
       "oppdrag": ""
     },
     {
-      "id": "9",
+      "id": "11",
       "merke": "Ford",
       "modell": "Focus",
       "årsmodell": 2019,
@@ -91,7 +91,7 @@
       "oppdrag": "Aktiv biljakt"
     },
     {
-      "id": "11",
+      "id": "13",
       "merke": "Kia",
       "modell": "Soul",
       "årsmodell": 2014,
@@ -100,7 +100,7 @@
       "oppdrag": "Patruljerer"
     },
     {
-      "id": "12",
+      "id": "2",
       "merke": "Toyota",
       "modell": "Landcruiser",
       "årsmodell": 2020,
@@ -109,7 +109,7 @@
       "oppdrag": "Innbrudd"
     },
     {
-      "id": "13",
+      "id": "9",
       "merke": "Mercedes-Benz",
       "modell": "G500",
       "årsmodell": 2020,
@@ -127,7 +127,7 @@
       "oppdrag": ""
     },
     {
-      "id": "15",
+      "id": "16",
       "merke": "Kia",
       "modell": "Soul",
       "årsmodell": 2018,
@@ -136,7 +136,7 @@
       "oppdrag": "Stasjonert"
     },
     {
-      "id": "16",
+      "id": "18",
       "merke": "Toyota",
       "modell": "Avensis",
       "årsmodell": 2013,
@@ -154,7 +154,7 @@
       "oppdrag": "Redning"
     },
     {
-      "id": "18",
+      "id": "16",
       "merke": "Audi",
       "modell": "A4",
       "årsmodell": 2018,
@@ -163,7 +163,7 @@
       "oppdrag": ""
     },
     {
-      "id": "19",
+      "id": "3",
       "merke": "Mercedes-Benz",
       "modell": "Sprinter",
       "årsmodell": 2018,
@@ -172,7 +172,7 @@
       "oppdrag": "Patruljerer"
     },
     {
-      "id": "20",
+      "id": "8",
       "merke": "Ford",
       "modell": "Fiesta",
       "årsmodell": 2015,
