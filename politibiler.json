@@ -1,0 +1,184 @@
+{
+  "biler": [
+    {
+      "id": "1",
+      "merke": "Ford",
+      "modell": "Focus",
+      "årsmodell": 2018,
+      "regNr": "DR 96669",
+      "status": "På vei til hendelse",
+      "oppdrag": "Trafikkulykke"
+    },
+    {
+      "id": "2",
+      "merke": "Toyota",
+      "modell": "Hiace",
+      "årsmodell": 2016,
+      "regNr": "DY 33852",
+      "status": "Tilgjengelig",
+      "oppdrag": "Patruljerer"
+    },
+    {
+      "id": "3",
+      "merke": "Ford",
+      "modell": "Transit",
+      "årsmodell": 2013,
+      "regNr": "DU 81928",
+      "status": "Tilgjengelig",
+      "oppdrag": "Patruljerer"
+    },
+    {
+      "id": "4",
+      "merke": "Mercedes-Benz",
+      "modell": "G500",
+      "årsmodell": 2019,
+      "regNr": "DL 22205",
+      "status": "Tilgjengelig",
+      "oppdrag": ""
+    },
+    {
+      "id": "5",
+      "merke": "Volvo",
+      "modell": "XC70",
+      "årsmodell": 2022,
+      "regNr": "DU 24434",
+      "status": "I oppdrag",
+      "oppdrag": "Trafikkulykke"
+    },
+    {
+      "id": "6",
+      "merke": "Audi",
+      "modell": "A4",
+      "årsmodell": 2016,
+      "regNr": "DB 17678",
+      "status": "Under vedlikehold",
+      "oppdrag": ""
+    },
+    {
+      "id": "7",
+      "merke": "Mercedes-Benz",
+      "modell": "Sprinter",
+      "årsmodell": 2014,
+      "regNr": "DH 39593",
+      "status": "Tilgjengelig",
+      "oppdrag": ""
+    },
+    {
+      "id": "8",
+      "merke": "Toyota",
+      "modell": "Hiace",
+      "årsmodell": 2014,
+      "regNr": "DJ 10900",
+      "status": "Tilgjengelig",
+      "oppdrag": ""
+    },
+    {
+      "id": "9",
+      "merke": "Ford",
+      "modell": "Focus",
+      "årsmodell": 2019,
+      "regNr": "DB 17587",
+      "status": "Tilgjengelig",
+      "oppdrag": ""
+    },
+    {
+      "id": "10",
+      "merke": "Ford",
+      "modell": "Mondeo",
+      "årsmodell": 2020,
+      "regNr": "DK 35318",
+      "status": "I oppdrag",
+      "oppdrag": "Aktiv biljakt"
+    },
+    {
+      "id": "11",
+      "merke": "Kia",
+      "modell": "Soul",
+      "årsmodell": 2014,
+      "regNr": "DU 79892",
+      "status": "Tilgjengelig",
+      "oppdrag": "Patruljerer"
+    },
+    {
+      "id": "12",
+      "merke": "Toyota",
+      "modell": "Landcruiser",
+      "årsmodell": 2020,
+      "regNr": "DA 47504",
+      "status": "På vei til hendelse",
+      "oppdrag": "Innbrudd"
+    },
+    {
+      "id": "13",
+      "merke": "Mercedes-Benz",
+      "modell": "G500",
+      "årsmodell": 2020,
+      "regNr": "DS 47888",
+      "status": "Under vedlikehold",
+      "oppdrag": ""
+    },
+    {
+      "id": "14",
+      "merke": "Ford",
+      "modell": "Transit",
+      "årsmodell": 2021,
+      "regNr": "DR 43702",
+      "status": "Tilgjengelig",
+      "oppdrag": ""
+    },
+    {
+      "id": "15",
+      "merke": "Kia",
+      "modell": "Soul",
+      "årsmodell": 2018,
+      "regNr": "DU 92391",
+      "status": "Tilgjengelig",
+      "oppdrag": "Stasjonert"
+    },
+    {
+      "id": "16",
+      "merke": "Toyota",
+      "modell": "Avensis",
+      "årsmodell": 2013,
+      "regNr": "DU 88220",
+      "status": "Under vedlikehold",
+      "oppdrag": ""
+    },
+    {
+      "id": "17",
+      "merke": "Toyota",
+      "modell": "Landcruiser",
+      "årsmodell": 2022,
+      "regNr": "DB 85651",
+      "status": "I oppdrag",
+      "oppdrag": "Redning"
+    },
+    {
+      "id": "18",
+      "merke": "Audi",
+      "modell": "A4",
+      "årsmodell": 2018,
+      "regNr": "DN 27690",
+      "status": "Tilgjengelig",
+      "oppdrag": ""
+    },
+    {
+      "id": "19",
+      "merke": "Mercedes-Benz",
+      "modell": "Sprinter",
+      "årsmodell": 2018,
+      "regNr": "DL 54785",
+      "status": "Tilgjengelig",
+      "oppdrag": "Patruljerer"
+    },
+    {
+      "id": "20",
+      "merke": "Ford",
+      "modell": "Fiesta",
+      "årsmodell": 2015,
+      "regNr": "DJ 79018",
+      "status": "I oppdrag",
+      "oppdrag": "Brann"
+    }
+  ]
+}
